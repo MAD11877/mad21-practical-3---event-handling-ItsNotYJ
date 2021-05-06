@@ -8,10 +8,10 @@
 
     <ImageView
         android:id="@+id/listImage"
-        android:layout_width="102dp"
-        android:layout_height="91dp"
-        android:layout_marginStart="152dp"
-        android:layout_marginTop="320dp"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_marginStart="188dp"
+        android:layout_marginTop="348dp"
         android:contentDescription="@string/icon"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
